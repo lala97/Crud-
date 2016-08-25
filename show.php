@@ -67,7 +67,7 @@
 
       }
     ?>
-      <a href="add.php?id=<?php echo $row['id']?>" class="create">Create</a>
+      <a href="create.php?id=<?php echo $row['id']?>" class="create">Create</a>
     </tbody>
     </table>
   </div>
